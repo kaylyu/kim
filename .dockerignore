@@ -1,0 +1,5 @@
+./build
+./docker-composer.yml
+.git
+./test
+
